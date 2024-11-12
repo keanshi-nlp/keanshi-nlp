@@ -5,7 +5,7 @@ I’m currently a undergraduated student in Tianjin University, majoring in Comp
 My research interest includes **Natural Language Processing (NLP), Large Visio-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
 
 + 😄 Welcome to visit my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
-+ 💬 Contect me for your cooperation: [![Mail Badge](https://img.shields.io/badge/-shikean@tju.edu.cn-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:shikean@tju.edu.cn)](mailto:shikean@tju.edu.cn)
++ 💬 Contect me for your cooperation: [shikean@tju.edu.cn](mailto:shikean@tju.edu.cn)
 
 <!--
 **Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
