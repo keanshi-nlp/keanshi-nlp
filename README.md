@@ -1,4 +1,8 @@
-## Hey 👋, This is Ruan
+## Hey 👋, This is Kean Shi
+
+I’m currently a undergraduated student in Tianjin University, majoring in Computer Science. I was advised by Prof. Wenjun Wang during 2022 - 2024. Next year I will pursue my master’s degree in Peking Unversity, advised by Prof. Baobao Chang.
+
+My research interest includes **Natural Language Processing (NLP), Large Visio-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
 
 [![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
 ## Some of my Github Stats
