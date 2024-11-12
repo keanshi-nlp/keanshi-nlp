@@ -4,7 +4,8 @@ I’m currently a undergraduated student in Tianjin University, majoring in Comp
 
 My research interest includes **Natural Language Processing (NLP), Large Visio-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
 
-[![Mail Badge](https://img.shields.io/badge/-shikean@tju.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shikean@tju.edu.cn)](mailto:shikean@tju.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+[![Mail Badge](https://img.shields.io/badge/-shikean@tju.edu.cn?style=flat&logo=Gmail&logoColor=white&link=mailto:shikean@tju.edu.cn)](mailto:shikean@tju.edu.cn) [![Github Badge](https://img.shields.io/badge/-keanshi-nlp-grey?style=flat&logo=github&logoColor=white&link=https://github.com/keanshi-nlp/)](https://www.github.com/keanshi-nlp/)
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
 
