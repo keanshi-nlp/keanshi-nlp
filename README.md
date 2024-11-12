@@ -7,6 +7,8 @@ My research interest includes **Natural Language Processing (NLP), Large Visio-L
 + 😄 Welcome to visit my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
 + 💬 Contect me for your cooperation: [shikean@tju.edu.cn](mailto:shikean@tju.edu.cn)
 
+https://github-readme-stats.vercel.app/api?username=keanshi-nlp
+
 <!--
 **Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
