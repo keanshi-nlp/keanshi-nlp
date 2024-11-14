@@ -5,6 +5,7 @@ I’m currently a undergraduated student in Tianjin University, majoring in Comp
 My research interest includes **Natural Language Processing (NLP), Large Visio-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
 
 + 😄 Welcome to visit my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
++ 📖 Some notes will be found in my blog: [Kean Shi' Blog](https://www.cnblogs.com/keanshi)
 + 💬 Contect me for your cooperation: [shikean@tju.edu.cn](mailto:shikean@tju.edu.cn)
 
 <!--
