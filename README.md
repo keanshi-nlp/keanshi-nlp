@@ -2,7 +2,7 @@
 
 I’m currently a undergraduated student in Tianjin University, majoring in Computer Science. I was advised by Prof. Wenjun Wang during 2022 - 2024. Next year I will pursue my master’s degree in Peking Unversity, advised by Prof. Baobao Chang.
 
-My research interest includes **Natural Language Processing (NLP), Large Visio-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
+My research interest includes **Natural Language Processing (NLP), Large Vision-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
 
 + 😄 Welcome to visit my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
 + 📖 Some notes will be found in my blog: [Kean Shi' Blog](https://www.cnblogs.com/keanshi)
