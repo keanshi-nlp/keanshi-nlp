@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/caarlos0/starcharts)
+![](https://github.com/caarlos0/starcharts.svg)
