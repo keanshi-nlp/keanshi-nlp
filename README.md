@@ -1,8 +1,8 @@
 ## Hey 👋, This is Kean Shi
 
-I’m currently a undergraduated student in Tianjin University, majoring in Computer Science. I was advised by [Prof. Wenjun Wang](https://cic.tju.edu.cn/faculty/wjwang/index.htm) during 2022 - 2024. This year I will pursue my master’s degree in Peking Unversity, advised by [Prof. Baobao Chang](https://pkunlp-icler.github.io/).
+Hello! I am Kean Shi (石珂安), a first-year graduate student at Peking University (School of Computer Science), supervised by Prof. Baobao Chang. Before that. I received my Bachelor degree in Computer Science from Tianjin University in 2025.
 
-My research interest includes **Natural Language Processing (NLP), Large Vision-Language Model (LVLM), Multimodal Large Language Model (MLLM)**, etc.
+My research interests lie in the intersection of **Natural Language Processing (NLP)**, **Multimodal Large Language Model (MLLM)** and **GUI Agent**.
 
 <!--
 + 😄 Welcome to visit my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
