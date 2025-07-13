@@ -8,7 +8,7 @@ My research interests lie in the intersection of **Natural Language Processing (
 + 😄 Welcome to visit my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
 -->
 + 📖 Some notes will be found in my blog: [Kean Shi' Blog](https://www.cnblogs.com/keanshi)
-+ 💬 Contect me for your cooperation: [shikean@tju.edu.cn](mailto:shikean@tju.edu.cn)
++ 💬 Contect me for your cooperation: [kashi25@stu.pku.edu.cn](kashi25@stu.pku.edu.cn)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keanshi-nlp&theme=default&show_icons=true)
