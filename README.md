@@ -1,6 +1,6 @@
 ## Hey 👋, This is Kean Shi
 
-Hello! I am Kean Shi (石珂安), a first-year master student at Peking University (School of Computer Science), supervised by Prof. Baobao Chang. Before that. I received my bachelor degree in Computer Science from Tianjin University in 2025.
+Hello! I am Kean Shi (石珂安), a second-year master student at Peking University (School of Computer Science), supervised by Prof. Baobao Chang. Before that. I received my bachelor degree in Computer Science from Tianjin University in 2025.
 
 My research interests lie in the intersection of **Natural Language Processing (NLP)**, **Multimodal Large Language Model (MLLM)** and **GUI Agent**.
 
