@@ -4,7 +4,7 @@ Hello! I am Kean Shi (石珂安), a first-year master student at Peking Universi
 
 My research interests lie in the intersection of **Natural Language Processing (NLP)**, **Multimodal Large Language Model (MLLM)** and **GUI Agent**.
 
-+ 😄 Welcome to my homepage: [Kean Shi' Home](https://keanshi-nlp.github.io/)
++ 😄 Welcome to my homepage: [Kean Shi' Home](https://keanlp.me)
 + 📖 Some notes will be found in my blog: [Kean Shi' Blog](https://www.cnblogs.com/keanshi)
 + 💬 Feel free to contact me: [kashi25@stu.pku.edu.cn](kashi25@stu.pku.edu.cn)
 
